@@ -1,0 +1,892 @@
+1. Bootstrap is used for __________
+
+a) Web applications
+
+b) IoT
+
+c) Bigdata
+
+d) Data
+
+
+Answer: a
+Explanation: Bootstrap is a free and open source front end web framework for designing websites and web applications.
+---------------------------------------------------------------------------------------------------------------
+2. It contains __________ design based templates for topography.
+
+a) SMTP
+
+b) HTML
+
+c) MQTP
+
+d) CoAP
+
+Answer: b
+Explanation: It contains HTML and CSS based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions.
+---------------------------------------------------------------------------------------------------------------
+3. Bootstrap is a front end development only.
+
+a) True
+
+b) False
+
+Answer: a
+Explanation: Unlike many web frameworks, it concerns with front-end development only.
+---------------------------------------------------------------------------------------------------------------
+4. __________ stars and __________forks are there in bootstrap.
+
+a) 111,600 and 51,500
+
+b) 51,500 and 111,600
+
+c) 125,124 and 36,154
+
+d) 36,154 and 125,124
+
+
+Answer: a
+Explanation: Bootstrap is the second most starred project on GitHub, with more than 111,600 stars and 51,500 forks.
+---------------------------------------------------------------------------------------------------------------
+5. Bootstrap was originally named as __________
+
+a) Twitter Bootstrap
+
+b) Twinkle Bootstrap
+
+c) Twitter Blueprint
+
+d) Twinkle Blueprint
+
+Answer: c
+Explanation: Bootstrap, originally named as Twitter Blueprint, was developed by Mark Otto, and Jacob Thornton at Twitter as a framework to encourage consistency across internal tools.
+---------------------------------------------------------------------------------------------------------------
+6. Which bootstrap has twelve column responsive grid layout system?
+
+a) Bootstrap 4
+
+b) Bootstrap 3
+
+c) Bootstrap 2
+
+d) Bootstrap
+
+Answer: c
+Explanation: Bootstrap 2 was released, which added a twelve column responsive grid layout system, inbuilt support for Glyphicons, several new components, as well as changes to many of the existing components.
+---------------------------------------------------------------------------------------------------------------
+7. Which bootstrap uses flat design?
+
+a) Bootstrap 2
+
+b) Bootstrap 3
+
+c) Bootstrap 4
+
+d) Bootstrap
+
+Answer: b
+Explanation: Bootstrap 3 was released, which resigned components to use flat design, and a mobile first approach.
+---------------------------------------------------------------------------------------------------------------
+
+9. Do bootstrap 3 supports Google chrome.
+
+a) True
+b) False 
+
+Answer: a
+Explanation: Bootstrap 3 supports the latest version of the Google Chrome, Firefox, Internet Explorer Opera, and Safari. In additional support back to IE8 and the latest Firefox Extended Support Release.
+---------------------------------------------------------------------------------------------------------------
+10. Does bootstrap 4 supports Sass and flexbox.
+a) True
+b) False
+
+Answer: a
+Explanation: The version 4.0 alpha release added Sass and flexbox support.
+---------------------------------------------------------------------------------------------------------------
+11. __________ is used instead of less for stylesheets.
+
+a) Hackathon
+b) Grid layout
+c) Flexbox
+d) Sass
+
+Answer: d
+Explanation: Sass s used instead of less for the stylesheets. Each Bootstrap component consists of an HTML structure, CSS declaration, and in some cases accompanying JavaScript code.
+---------------------------------------------------------------------------------------------------------------
+12. Sass stands for __________
+
+a) Syntactically awesome Spreadsheets
+b) Syntactically awesome Stylesheets
+c) Scripting awesome Stylesheets
+d) Scripting awesome Spreadsheets
+
+Answer: b
+Explanation: Sass(Syntactically awesome Stylesheets) is a style sheet language initially designed by Hampton Catlin and developed by Natalie Weizenbaum.
+advertisement
+---------------------------------------------------------------------------------------------------------------
+13. Grid system and responsive design come standard with __________ pixel wide grid layout.
+
+a) 1270
+b) 1500
+c) 1170
+d) 1350
+
+Answer: c
+Explanation: Grid system and responsive design come standard with 1170 pixel wide grid layout. Alternatively, the developer can use a variable width layout.
+---------------------------------------------------------------------------------------------------------------
+14. ___________ provides a set of stylesheets that provide basic style definition for HTML components.
+
+a) Bootstrap
+b) Javascript
+c) Sass
+d) Flexbox
+
+Answer: a
+Explanation: Bootstrap provides a set of stylesheets that provide basic style definition for HTML components. These provide a uniform, modern appearance for formatting text, tables and form elements.
+---------------------------------------------------------------------------------------------------------------
+15. Bootstrap uses what?
+
+a) Pixels
+b) Root ems
+c) Less
+d) Pager component
+
+Answer: b
+Explanation: Bootstrap 4 is almost rewritten from Bootstrap 3. Changes include:
+Switched from Less to Sass
+Switched from pixel to root ems.
+---------------------------------------------------------------------------------------------------------------
+16.How many classes does bootstrap grid system has?
+
+a) 3
+b) 2
+c) 1
+d) 4
+
+Answer: d
+Explanation: Bootstrap grid system has four classes. Xs, sm, md, lg. as is for phones having screens less than 786px wide, sm is for tablets. Screens equal to or greater than 768px, md is for small laptops, screen equal to or greater than 992px wide, lg is for laptops and desktops, Screens equal to or greater than 1200px wide.
+---------------------------------------------------------------------------------------------------------------
+17. What is bootstrap’s global default font-size?
+
+a) 12px
+b) 14px
+c) 10px
+d) 9px
+
+Answer: b
+Explanation: Bootstrap’s global default font-size is 14px, with line-height of 1.428. This is applied to element and all paragraphs. In addition all <p> elements have bottom margins.
+---------------------------------------------------------------------------------------------------------------
+18. Progress bars are not supported in ______________
+
+a) Internet Explorer 10
+b) Internet Explorer 9
+c) Opera
+d) Chrome
+
+Answer: a
+Explanation: Progress bars are not supported in Internet Explorer 9 and earlier versions, because they use CSS3 transitions and animations to achieve some of the effects. For improving accessibility for people using screen readers, we should include aria-* attributes.
+---------------------------------------------------------------------------------------------------------------
+19. Which of the following clears bottom-margin of each panel?
+
+a) .panel-group
+b) .panel-footer
+c) .panel-heading
+d) .panel-body
+
+Answer: a
+Explanation: .panel-group class clears bottom-margin of each panel. It also group many panels together, we can wrap <div> with class .panel-group around them.
+---------------------------------------------------------------------------------------------------------------
+20. For inserting plain text we use __________
+
+a) .form-control-static
+b) .input-group
+c) .input-group-addon
+d) .input-group-btn
+
+Answer: a
+Explanation: If we need to insert plain text next to a form label within horizontal form we can use .form-control-static class on <p> element. The .input-group class is a container to enhance input by adding an icon, text or button in front or behind it.
+---------------------------------------------------------------------------------------------------------------
+21. Which attribute is used to input to prevent user input?
+
+a) readonly
+b) .sr-only
+c) disabled
+d) .has-feedback
+
+Answer: a
+Explanation: We can add readonly attribute to an input to prevent user input. .sr-only class is applied on non-visible labels, disabled attribute is added to disabled an input field.
+---------------------------------------------------------------------------------------------------------------
+22. What is the range of dimension for small devices?
+
+a) 450px to 700px
+b) 768px to 991px
+c) 992px to 1199px
+d) 120px to 500px
+
+Answer: b
+Explanation: Small devices are defined as a screen width from 768px to 991px. For small devices we use the class .col-sm-*, for medium devices the screen width from 992px to 1199px.
+---------------------------------------------------------------------------------------------------------------
+
+23. Which will change the order of a grid columns?
+
+a) .col-md-push-*
+b) .col-md-offset-*
+c) .clearfix
+d) .col-sm-*
+
+Answer: a
+---------------------------------------------------------------------------------------------------------------
+24.Bootstrap’s global default line-height
+
+A. 1.128 
+B. 1.428 
+C. 1.228 
+D. 1.8
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+25.Which of the following is correct about bootstrap wells?
+
+ A. You can change the size of well using the optional classes such as, well-lg or well-sm
+ B. well-lg or well-sm classes are used in conjunction with .well class
+ C. Both of the above
+ D. None of the above
+
+Answer: Option C
+---------------------------------------------------------------------------------------------------------------
+26.Glyphicons is mainly used for?
+
+A. Slideshow 
+B. graphic images 
+C. animation 
+D. providing different icons
+
+
+Answer: Option D
+---------------------------------------------------------------------------------------------------------------
+28.Which of the following class styles a table as a nice basic table with stripes on rows?
+
+A. .table 
+B. .table-striped 
+C. .table-bordered 
+D. .table-hover
+
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+29.What layout is used for providing 100% width in Bootstrap?
+
+A. Fixed layout 
+B. Fluid layout 
+C. Both (a)and (b) 
+D. None of the above
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+30.In Bootstrap we can add for
+
+A. Proper Rendering and Zooming in mobile 
+B. Make SEO 
+C. Make proper view of labels 
+D. None
+
+Answer: Option A
+---------------------------------------------------------------------------------------------------------------
+31.Which of the following bootstrap style helps to combine sets of
+into a more complex components?
+
+A. .btn-group
+ B. .btn-toolbar
+ C. .btn-group-lg
+ D. .btn-group-vertical
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+32.Which plugin is used to create a modal window?
+
+A. modal 
+B. window 
+C. dialog Box 
+D. popup
+
+
+Answer: Option A
+---------------------------------------------------------------------------------------------------------------
+33.The .container class provides?
+
+ A. Full width container 
+ B. Fixed width container
+ C. Table format
+ D. To create a Form
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+34.Which of the following contextual class is used for warning purpose?
+
+A. .active 
+B. .warning   
+C. .danger 
+D. All of the above
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+35.Which of the following is correct about data-trigger Data attribute of popover Plugin?
+
+ A. Sets the default title value if the title attribute isn’t present
+ B. Defines how the popover is triggered
+ C. Defines default content value if data-content attribute isn’t present
+ D. Delays showing and hiding the popover in ms
+
+Answer: Option B
+---------------------------------------------------------------------------------------------------------------
+36.Which of the following bootstrap styles are used to create a vertical pills navigation?
+
+ A. .nav, .nav-tabs
+ B. .nav, .nav-pills 
+ C. .nav, .nav-pills, .nav-stacked 
+ D. .nav, .nav-tabs, .nav-justified
+
+Answer: Option C
+---------------------------------------------------------------------------------------------------------------
+37.Which of the following bootstrap styles are used to create a vertical pills navigation?
+
+ A. .nav, .nav-tabs
+ B. .nav, .nav-pills
+ C. .nav, .nav-pills, .nav-stacked 
+ D. .nav, .nav-tabs, .nav-justified
+
+Answer: Option C
+---------------------------------------------------------------------------------------------------------------
+38.Which plugin is used to cycle through elements, like a slideshow?
+
+A. orbit
+B. scrollspy
+C. slideshow 
+D. carousel
+
+Answer: Option D
+---------------------------------------------------------------------------------------------------------------
+39.The bootstrap class md means for?
+A. phones 
+B. tablets 
+C. desktop 
+D. larger desktops
+
+Answer: Option C
+---------------------------------------------------------------------------------------------------------------
+40.Bootstrap is developed by
+ A. James Gosling
+ B. Mark Jukervich
+ C. Mark Otto and Jacob Thornton 
+ D. None of them
+
+Answer: Option C
+--------------------------------------------------------------------------------------------------------------
+41.  Which of the following is correct about Bootstrap?
+
+A - Bootstrap's responsive CSS adjusts to Desktops,Tablets and Mobiles.
+
+B - Provides a clean and uniform solution for building an interface for developers.
+
+C - It contains beautiful and functional built-in components which are easy to customize.
+
+D - All of the above.
+Q 1 - Which of the following is correct about Bootstrap Grid System?
+
+Answer : D
+All of The Above
+---------------------------------------------------------------------------------------------------------------------------------
+42. Which of the following is correct about Bootstrap?
+
+A - Bootst rap is a sleek, intuitive, and powerful, mobile first front-end framework for faster and
+easier web development.
+
+B - It uses HTML, CSS and Javascript.
+
+C - Bootst rap was developed by Mark Otto and Jacob Thornton at Twitter.
+
+D - All of the above.
+
+Answer : D
+All of The Above
+---------------------------------------------------------------------------------------------------------
+43. Which of the following is a part of Mobile First Strategy of Bootstrap?
+
+A - Content: Determine what is most important.
+
+B - Layout: Design to smaller widths first. Base CSS address mobile device first; media queries
+address for tablet, desktops.
+
+C - Progressive Enhancement: Add elements as screen size increases.
+
+D - All of the above.
+Answer : D
+All of The Above
+---------------------------------------------------------------------------------------------------------
+44. Which of the following is correct about Bootstrap Grid System?
+
+A - Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. LESS mixins can also be used for more semantic layouts.
+
+B - Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and the last column via negative margin on .rows.
+
+C - Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4.
+
+D - All of the above.
+
+Answer : D
+Explanation
+All of the above options are correct.
+
+````````````````````````````````````````````````````````````````````````````````````````````````````````````
+45. Which of the following class styles a table with a light gray background to rows while the cursor hovers over them?
+
+A - .table
+
+B - .table-striped
+
+C - .table-bordered
+
+D - .table-hover
+
+Answer : D
+Explanation
+By adding the .table-hover class, a light gray background will be added to rows while the cursor hovers over them.
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+46. Which of the following bootstrap style of button indicates caution should be taken with this action?
+
+A - .btn-warning
+
+B - .btn-danger
+
+C - .btn-link
+
+D - .btn-info
+
+Answer : A
+Explanation
+.btn-warning - Indicates caution should be taken with this action.
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+47. Which of the following is a part of Mobile First Strategy of Bootstrap?
+
+A - Content: Determine what is most important.
+
+B - Layout: Design to smaller widths first. Base CSS address mobile device first; media queries
+address for tablet, desktops.
+
+C - Progressive Enhancement: Add elements as screen size increases.
+
+D - All of the above.
+Answer : D
+All of The Above
+
+`````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+48. Which of the following bootstrap style is used for a basic button group?
+
+A - .btn-group
+
+B - .btn-toolbar
+
+C - .btn-group-lg
+
+D - .btn-group-vertical
+
+Answer : A
+Explanation
+.btn-group - This class is used for a basic button group. Wrap a series of buttons with class .btn in .btn-group.
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+49 - Which of the following bootstrap style is used to add button to .navbar?
+
+A - .navbar-.btn
+
+B - ..btn
+
+C - .form-.btn
+
+D - None of the above.
+
+Answer : A
+Explanation
+You can add buttons using class .navbar-.btn to <button> elements not residing in a <form> to vertically center them in the .navbar. ..navbar-.btn can be used on <a> and <input> elements.
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+50 - Which of the following is correct about Bootstrap Grid System?
+
+A - Rows must be placed within a .container class for proper alignment and padding.
+
+B - Use rows to create horizontal groups of columns.
+
+C - Content should be placed within the columns, and only columns may be the immediate children
+of rows.
+
+D - All of the above.
+
+Answer : D
+
+``````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+
+
+51 - Which of the following bootstrap style is used to create a .breadcrumb?
+
+A - .breadcrumb
+
+B - .navbar
+
+C - .menu
+
+D - None of the above.
+
+Answer : A
+Explanation
+A .breadcrumb in Bootstrap is simply an unordered list with a class of .breadcrumb. The separator is automatically added by CSS (bootstrap.min.css).
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+52 - Which of the following is correct about Bootstrap Media Query?
+
+A - It simply applies some CSS, based on certain conditions set forth. If those conditions are met,
+the style is applied.
+
+B - Both of the above.
+
+C - None of the above..
+
+Answer :C
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+53 - Which of the following is correct about Bootstrap Media Query?
+
+A - Media queries have two parts, a device specification and then a size rule.
+
+B - Media Queries in Bootst rap allow you to move, show and hide content based on the viewport
+size.
+
+C - Both of the above.
+
+D - None of the above..
+
+Answer: C
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+54 - Which of the following is correct about bootstrap media objects?
+
+A - These are abstract object styles for building various types of components (like blog comments, Tweets, etc.) that feature a left-aligned or right-aligned image alongside the textual content.
+
+B - The goal of the media object is to make the code for developing these blocks of information drastically shorter.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+55 - Which of the following class can be used to add a footer to a panel?
+
+A - .panel-footer
+
+B - .footer
+
+C - .panel
+
+D - None of the above.
+
+Answer : A
+Explanation
+You can add footers to panels, by wrapping buttons or secondary text in a <div> containing class .panel-footer.
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+56 - Which of the following class styles a table with borders surrounding every
+element and rounded corners around the entire table?
+
+A - .table
+
+B - .table-st riped
+
+C - .table-bordered
+
+D - .table-hover
+
+Answer :C
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+57 - Which of the following is correct about Tab Plugin?
+
+A - You can toggle the Tab plugin's hidden content via data attributes.
+
+B - You can toggle the Tab plugin's hidden content via javascript.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+
+```````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````````
+58 - Which of the following is correct about data-title Data attribute of popover Plugin?
+
+A - Sets the default title value if the title attribute isn't present.
+
+B - Defines how the popover is triggered.
+
+C - Defines default content value if data-content attribute isn't present
+
+D - Delays showing and hiding the popover in ms.
+
+Answer : A
+Explanation
+data-title - Sets the default title value if the title attribute isn't present.
+-------------------------------------------------------------------------------------------------------------------------------
+59 - Which of the following bootstrap style makes a set of buttons appear vertically stacked rather than horizontally?
+
+A - .btn-group
+
+B - .btn-toolbar
+
+C - .btn-group-lg
+
+D - .btn-group-vertical
+
+Answer : C
+Explanation
+.btn-group-vertical - This class make a set of buttons appear vertically stacked rather than horizontally.
+---------------------------------------------------------------------------------------------------------------------------
+60 - Which of the following bootstrap style of button indicates a successful or positive action?
+
+A - .btn
+
+B - .btn-primary
+
+C - .btn-success
+
+D - .btn-info
+
+Answer : C
+Explanation
+.btn-success - Indicates a successful or positive action.
+------------------------------------------------------------------------------------------------------------------------------
+
+61 - Which of the following is correct about data-title Data attribute of Tooltip Plugin?
+
+A - Sets the default title value if the title attribute isn't present.
+
+B - Defines how the tooltip is triggered.
+
+C - Defines default content value if data-content attribute isn't present
+
+D - Delays showing and hiding the tooltip in ms.
+Answer : A
+Explanation
+------------------------------------------------------------------------------------------------------------------------
+62 - Which of the following is correct about Bootstrap?
+
+A - Bootstrap's responsive CSS adjusts to Desktops,Tablets and Mobiles.
+
+B - Provides a clean and uniform solution for building an interface for developers.
+
+C - It contains beautiful and functional built-in components which are easy to customize.
+
+D - All of the above.
+Answer : D
+Explanation
+All of the above options are correct.
+---------------------------------------------------------------------------------------------------------------------------
+63 - Which of the following bootstrap styles are used to create a tabbed navigation?
+
+A - .nav, .nav-tabs
+
+B - .nav, .nav-pills
+
+C - .nav, .nav-pills, .nav-stacked
+
+D - .nav, .nav-tabs, .nav-justified
+
+Answer : A
+Explanation
+To create a tabbed navigation .menu: Start with a basic unordered list with the base class of .nav and add class .nav-tabs.
+----------------------------------------------------------------------------------------------------------------
+
+64 - Which of the following is true about bootstrap help text?
+
+A - Bootstrap form controls can have a block level help text that flows with the inputs.
+
+B - To add a full width block of content, use the .help-block after the <input>.
+
+C - Both of the above.
+
+D - None of the above.
+Answer : C
+Explanation
+Both of the above options are correct.
+
+----------------------------------------------------------------------------------------------------------------------
+
+65 - Which of the following is correct about Popover Plugin?
+
+A - You can toggle the Popover plugin's hidden content via data attributes.
+
+B - You can toggle the Popover plugin's hidden content via javascript.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+66 - Which of the following bootstrap style of button deemphasize a button by making it look like a link while maintaining button behavior?
+
+A - .btn-warning
+
+B - .btn-danger
+
+C - .btn-link
+
+D - .btn-info
+
+Answer : C
+Explanation
+.btn-link - Deemphasize a button by making it look like a link while maintaining button behavior.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+67 - Which of the following bootstrap style is to be used if you want the .navbar fixed to the top of the page?
+
+A - .navbar-top
+
+B - .navbar-fixed
+
+C - .navbar-fixed-top
+
+D - None of the above.
+
+Answer : C
+Explanation
+If you want the .navbar fixed to the top of the page, add class .navbar-fixed-top to the .navbar class.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+68 - Which of the following is correct about data-backdrop Data attribute of Modal Plugin?
+
+A - It specifies static for a backdrop, if you don't want the modal to be closed when the user clicks outside of the modal.
+
+B - It closes the modal when escape key is pressed; set to false to disable.
+
+C - It shows the modal when initialized.
+
+D - Using the jQuery .load method, injects content into the modal body. If an href with a valid URL is added, it will load that content.
+
+Answer : A
+Explanation
+data-backdrop - Specify static for a backdrop, if you don't want the modal to be closed when the user clicks outside of the modal.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+69 - Which of the following bootstrap style is to be used if you want to create an inverted .navbar with a black background and with white text?
+
+A - .navbar-reverse
+
+B - .navbar-inverse
+
+C - .navbar-inverted
+
+D - None of the above.
+
+Answer : B
+Explanation
+To create an inverted .navbar with a black background and with white text, simply add the .navbar-inverse class to the ..navbar class.
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+70 - Which of the following is correct about bootstrap wells?
+
+A - You can change the size of well using the optional classes such as, well-lg or well-sm.
+
+B - well-lg or well-sm classes are used in conjunction with .well class.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+71 - Which of the following bootstrap styles are used to create a disabled tab in tabs navigation?
+
+A - .nav, .nav-tabs, .disabled
+
+B - .nav, .nav-tabs
+
+C - .nav, .nav-pills, .nav-disabled
+
+D - .nav, .nav-pills
+
+Answer : A
+Explanation
+For each of the .nav classes, if you add the .disabled class, it will create a gray link that also disables the :hover state.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+72 - Which of the following is correct about data-content Data attribute of Tooltip Plugin?
+
+A - Sets the default title value if the title attribute isn't present.
+
+B - Defines how the tooltip is triggered.
+
+C - Defines default content value if data-content attribute isn't present
+
+D - Delays showing and hiding the tooltip in ms.
+
+Answer : C
+Explanation
+data-content - Default content value if data-content attribute isn't present.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+73 - Which of the following is correct about bootstrap panels?
+
+A - Panel components are used when you want to put your DOM component in a box.
+
+B - To get a basic panel, just add class .panel to the <div> element. Also add class .panel-default to this element.
+
+C - Both of the above.
+
+D - None of the above.
+
+Answer : C
+Explanation
+Both of the above options are correct.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+74 - Which of the following is correct about data-trigger Data attribute of Tooltip Plugin?
+
+A - Sets the default title value if the title attribute isn't present.
+
+B - Defines how the tooltip is triggered.
+
+C - Defines default content value if data-content attribute isn't present
+
+D - Delays showing and hiding the tooltip in ms.
+
+Answer : B
+Explanation
+data-trigger - Defines how the tooltip is triggered: click| hover | focus | manual. You may pass multiple triggers; separate them with a space.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+75 - Which of the following is the default layout of a bootstrap form?
+
+A - .vertical
+
+B - .inline
+
+C - .horizontal
+
+D - None of the above.
+
+Answer : A
+Explanation
+Vertical or Basic Form: The basic form structure which comes with Bootstrap.
+---------------------------------------------------------------------------------------------------------------------------------------------------
